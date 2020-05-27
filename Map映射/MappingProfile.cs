@@ -12,6 +12,7 @@ namespace Map映射
         {
             CreateMap<User, UserDto>();
             CreateMap<UserDto, User>();
+            //测试
         }
     }
 }
