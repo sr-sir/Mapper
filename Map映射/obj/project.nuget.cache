@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0z0l8VTsgX+XL5x1L4KTxRZfUBXFiIhbm2aN08d6XxDxdWHiDyq/6SnL6c4SA0n4XcI31DKnzyRRxD9+SAT+zw==",
+  "dgSpecHash": "O2C+dpMBmNePpcKQFiB5TGWxqV8+DDVnCN5LreIcwjAgiFA4JmCaI4KLTg93lie744z7fb+NLBf0GXsQZBTXhA==",
   "success": true,
-  "projectFilePath": "E:\\Personal\\Map映射\\Map映射\\Map映射.csproj",
+  "projectFilePath": "E:\\Personal\\Mapper\\Map映射\\Map映射.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Personal\\Map映射\\Map映射\\Map映射.csproj": {}
+    "E:\\Personal\\Mapper\\Map映射\\Map映射.csproj": {}
   },
   "projects": {
-    "E:\\Personal\\Map映射\\Map映射\\Map映射.csproj": {
+    "E:\\Personal\\Mapper\\Map映射\\Map映射.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Personal\\Map映射\\Map映射\\Map映射.csproj",
+        "projectUniqueName": "E:\\Personal\\Mapper\\Map映射\\Map映射.csproj",
         "projectName": "Map映射",
-        "projectPath": "E:\\Personal\\Map映射\\Map映射\\Map映射.csproj",
+        "projectPath": "E:\\Personal\\Mapper\\Map映射\\Map映射.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\Personal\\Map映射\\Map映射\\obj\\",
+        "outputPath": "E:\\Personal\\Mapper\\Map映射\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
